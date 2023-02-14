@@ -5,7 +5,7 @@ import math
 
 root = Tk()
 root["bg"] = '#707070'
-root.title("YouTube @ R-VideoReview")
+root.title("Rasuldjan Jalalov")
 root.geometry("520x460")
 root.resizable(False, False)
 
